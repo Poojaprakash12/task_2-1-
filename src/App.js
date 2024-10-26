@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import axios from 'axios';
-import './App.css'; // Ensure you style this in your CSS file
+import './App.css'; 
 
 const App = () => {
   const [selectedDate, setSelectedDate] = useState('');
